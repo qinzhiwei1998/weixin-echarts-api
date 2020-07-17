@@ -1,0 +1,6 @@
+/* pages/home/home.wxss */
+ec-canvas {
+  width: 90%;
+  height: 50%;
+  background: #eee;
+}
